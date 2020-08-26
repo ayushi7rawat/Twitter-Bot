@@ -1,7 +1,7 @@
 import tweepy
 import time
 
-print('I am pymoonbot')
+print('HII, I am pymoonbot')
 #Authenticate to Twitter
 CONSUMER_KEY = 'your CONSUMER_KEY goes here'
 CONSUMER_SECRET = 'your CONSUMER_SECRET goes here'
