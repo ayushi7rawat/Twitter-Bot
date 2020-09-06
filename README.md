@@ -1,16 +1,16 @@
 # Twitter Bot
 A Twitter Bot developed in Python who likes and retweets tweets with #python3 hashtag
 
+You can find my Twitter Bot [@pymoonbot](https://twitter.com/pymoonbot) at Twitter.
 ---
 
-![alt text](https://github.com/ayushi7rawat/MS-Teams-Automation/blob/master/Cover.jpg)
-
-You can find my Twitter Bot [@pymoonbot](https://twitter.com/pymoonbot) at Twitter.
+![alt text](https://github.com/ayushi7rawat/Twitter-Bot/blob/master/cover.jpg)
 
 Do you use twitter? Have you come across a twitter bot that like, retweet, follow, or even reply to your tweets?
 Do you want to know how to build one?
 
 Disclaimer:
+==========================
 This code is for educational purposes only and the author is not responsible for any consequences resulted. Please do not try it if you do not agree with the condition.
 
 Log in to your Twitter account on which you want to make a bot.
