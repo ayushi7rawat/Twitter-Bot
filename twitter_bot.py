@@ -14,7 +14,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 user= api.me()
 search = '#python3'
-num_tweet = 350
+num_tweet = 300
 
 #fetching tweets
 for tweet in tweepy.Cursor(api.search, search).items(num_tweet):
